@@ -12,13 +12,14 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
+    sidebar: {
+      folderDefaultState: "expanded",
+      showRoot: true,
+    },
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -78,7 +79,7 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      Plugin.FolderPage(),   // generates folder-level pages (headings in sidebar)
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
@@ -88,7 +89,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },
