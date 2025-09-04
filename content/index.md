@@ -22,7 +22,10 @@ title: Home
 
 ### Module 1
 
-- [1.Chap_1n2.pdf](IVP/Module%201/1.Chap_1n2.pdf)
+- [1. Ch 1.pdf](IVP/Module%201/1.%20Ch%201.pdf)
+- [1. Ch 2 Part 1.pdf](IVP/Module%201/1.%20Ch%202%20Part%201.pdf)
+- [1. Ch 2 Part 2.pdf](IVP/Module%201/1.%20Ch%202%20Part%202.pdf)
+- [1.Chap_1n2_small.pdf](IVP/Module%201/1.Chap_1n2_small.pdf)
 - [2.cs484_imaging.pdf](IVP/Module%201/2.cs484_imaging.pdf)
 - [3.image_representation.pdf](IVP/Module%201/3.image_representation.pdf)
 - [4.image_representation2.pdf](IVP/Module%201/4.image_representation2.pdf)
@@ -52,6 +55,17 @@ title: Home
 - [Noiserest.pdf](IVP/Module%203/Noiserest.pdf)
 - [rest1.pdf](IVP/Module%203/rest1.pdf)
 - [rest2.pdf](IVP/Module%203/rest2.pdf)
+
+### Module 4
+
+- [fsp.pdf](IVP/Module%204/fsp.pdf)
+- [good-Morphological.pdf](IVP/Module%204/good-Morphological.pdf)
+- [L24-25. Gray level morphology.Shape description.pdf](IVP/Module%204/L24-25.%20Gray%20level%20morphology.Shape%20description.pdf)
+- [mcmastermorphology.pdf](IVP/Module%204/mcmastermorphology.pdf)
+- [MIP2018_19_13_morphology_double.pdf](IVP/Module%204/MIP2018_19_13_morphology_double.pdf)
+- [Morphologicaliitd.pdf](IVP/Module%204/Morphologicaliitd.pdf)
+- [Morphologyiitm.pdf](IVP/Module%204/Morphologyiitm.pdf)
+- [reconstruction.pdf](IVP/Module%204/reconstruction.pdf)
 
 ## RTC
 
@@ -85,4 +99,10 @@ title: Home
 - [27.Rhetorical functions in academic writing_compressed.pdf](RTC/27.Rhetorical%20functions%20in%20academic%20writing_compressed.pdf)
 - [28.ACADEMIC WRITING STYLE-Exercises.pdf](RTC/28.ACADEMIC%20WRITING%20STYLE-Exercises.pdf)
 - [29.Academic Writing Exercises.pdf](RTC/29.Academic%20Writing%20Exercises.pdf)
+- [30.Academic Writing from Paragraph to Essay.pdf](RTC/30.Academic%20Writing%20from%20Paragraph%20to%20Essay.pdf)
+- [31.paragraph-development.pdf](RTC/31.paragraph-development.pdf)
+- [32.paragraphing in academic writing.pdf](RTC/32.paragraphing%20in%20academic%20writing.pdf)
+- [33.paragraph-unity-and-coherence.pdf](RTC/33.paragraph-unity-and-coherence.pdf)
+- [34.Understanding the Structure of a Paragraph.pdf](RTC/34.Understanding%20the%20Structure%20of%20a%20Paragraph.pdf)
+- [35.writing-effective-paragraphs.pdf](RTC/35.writing-effective-paragraphs.pdf)
 
