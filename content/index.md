@@ -6,7 +6,7 @@ title: Home
 
 ## Files by Category
 
-## AI
+## Artificial Intelligence
 
 - [1.Introduction_AI.pdf](AI/1.Introduction_AI.pdf)
 - [2.Data Manipulation.pdf](AI/2.Data%20Manipulation.pdf)
@@ -16,8 +16,8 @@ title: Home
 - [5.Local Search and Hill Climbing.pdf](AI/5.Local%20Search%20and%20Hill%20Climbing.pdf)
 - [5.NCSC513-Simulated annealing and Local Beam Search (29_8_25).pdf](AI/5.NCSC513-Simulated%20annealing%20and%20Local%20Beam%20Search%20%2829_8_25%29.pdf)
 - [6.NCSC513- Genetic Algorithm, Adversarial Search, Problem Reduction in AI](AI/6.NCSC513-%20Genetic%20Algorithm,%20Adversarial%20Search,%20Problem%20Reduction%20in%20AI.pdf)
-- [7.NCSC513-AI CSP](AI/7.NCSC513-AI CSP.pdf)
-## IVP
+- [7.NCSC513-AI CSP](AI/7.NCSC513-AI%20CSP.pdf)
+## Image and Video Processing
 
 - [McAbdrew-An Introduction to Digital Image Processing with Matlab.pdf](IVP/McAbdrew-An%20Introduction%20to%20Digital%20Image%20Processing%20with%20Matlab.pdf)
 
@@ -68,7 +68,7 @@ title: Home
 - [Morphologyiitm.pdf](IVP/Module%204/Morphologyiitm.pdf)
 - [reconstruction.pdf](IVP/Module%204/reconstruction.pdf)
 
-## RTC
+## Research and Technical Communication
 
 - [1.English Articles.pdf](RTC/1.English%20Articles.pdf)
 - [2.Impersonal Passive.pdf](RTC/2.Impersonal%20Passive.pdf)
