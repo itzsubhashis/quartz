@@ -15,7 +15,8 @@ title: Home
 - [4.Intelligent_agents.pdf](AI/4.Intelligent_agents.pdf)
 - [5.Local Search and Hill Climbing.pdf](AI/5.Local%20Search%20and%20Hill%20Climbing.pdf)
 - [5.NCSC513-Simulated annealing and Local Beam Search (29_8_25).pdf](AI/5.NCSC513-Simulated%20annealing%20and%20Local%20Beam%20Search%20%2829_8_25%29.pdf)
-
+- [6.NCSC513- Genetic Algorithm, Adversarial Search, Problem Reduction in AI](AI/6.NCSC513-%20Genetic%20Algorithm,%20Adversarial%20Search,%20Problem%20Reduction%20in%20AI.pdf)
+- [7.NCSC513-AI CSP](AI/7.NCSC513-AI CSP.pdf)
 ## IVP
 
 - [McAbdrew-An Introduction to Digital Image Processing with Matlab.pdf](IVP/McAbdrew-An%20Introduction%20to%20Digital%20Image%20Processing%20with%20Matlab.pdf)
