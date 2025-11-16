@@ -1,109 +1,168 @@
 ---
 title: Home
+description: Course resources — organized by category and module. Click any file to open.
 ---
 
-# Welcome
+# 🎓 Welcome
 
-## Files by Category
+**Files by Category** — quick links to lecture notes, slides and readings.
+
+---
+
+## 🔗 Table of contents
+- [Artificial Intelligence](#artificial-intelligence)
+  - [POST_MID](#post_mid)
+  - [PRE_MID](#pre_mid)
+- [Image and Video Processing](#image-and-video-processing)
+  - [MID_SEM → Module 1–4](#mid_sem)
+  - [POST_MID_SEM → Module 5–9](#post_mid_sem)
+- [Research and Technical Communication](#research-and-technical-communication)
+  - [1. Common Errors](#1-common-errors)
+  - [2. Cutting Clutter](#2-cutting-clutter)
+  - [3. Academic Writing](#3-academic-writing)
+  - [4. Paragraph and Essay Writing](#4-paragraph-and-essay-writing)
+  - [5. Writing Literature Review](#5-writing-literature-review)
+  - [6. Punctuations](#6-punctuations)
+  - [7. Writing Research Paper](#7-writing-research-paper)
+  - [8. Writing Thesis](#8-writing-thesis)
+  - [9. Quoting, Paraphrasing, and Summarizing](#9-quoting-paraphrasing-and-summarizing)
+  - [10. Plagiarism](#10-plagiarism)
+
+---
 
 ## Artificial Intelligence
+> Core AI course materials: pre-mid and post-mid notes, algorithms, and sample exams.
 
-- [1.Introduction_AI.pdf](AI/1.Introduction_AI.pdf)
-- [2.Data Manipulation.pdf](AI/2.Data%20Manipulation.pdf)
-- [03-search.pdf](AI/03-search.pdf)
-- [3.Numpy.pdf](AI/3.Numpy.pdf)
-- [4.Intelligent_agents.pdf](AI/4.Intelligent_agents.pdf)
-- [5.Local Search and Hill Climbing.pdf](AI/5.Local%20Search%20and%20Hill%20Climbing.pdf)
-- [5.NCSC513-Simulated annealing and Local Beam Search (29_8_25).pdf](AI/5.NCSC513-Simulated%20annealing%20and%20Local%20Beam%20Search%20%2829_8_25%29.pdf)
-- [6.NCSC513- Genetic Algorithm, Adversarial Search, Problem Reduction in AI](AI/6.NCSC513-%20Genetic%20Algorithm,%20Adversarial%20Search,%20Problem%20Reduction%20in%20AI.pdf)
-- [7.NCSC513-AI CSP](AI/7.NCSC513-AI%20CSP.pdf)
+### POST_MID
+<details>
+<summary>Click to expand (POST_MID)</summary>
+
+- [1. NCSC513-AI Inductive Learning, ML Algorithms, Neural Networks (1) (2).pdf](Artificial%20Intelligence/POST_MID/1.%20NCSC513-AI%20Inductive%20Learning%2C%20ML%20Algorithms%2C%20Neural%20Networks%20%281%29%20%282%29.pdf)  
+- [2. NCSC513-Knowledge Representation, Planning, NLP(16_9_25) (2).pdf](Artificial%20Intelligence/POST_MID/2.%20NCSC513-Knowledge%20Representation%2C%20Planning%2C%20NLP%2816_9_25%29%20%282%29.pdf)  
+- [3. NCSC513-Probabilistic Reasoning, Knowledge Representation, Planning, NLP(10_9_25) (2).pdf](Artificial%20Intelligence/POST_MID/3.%20NCSC513-Probabilistic%20Reasoning%2C%20Knowledge%20Representation%2C%20Planning%2C%20NLP%2810_9_25%29%20%282%29.pdf)
+
+</details>
+
+### PRE_MID
+<details>
+<summary>Click to expand (PRE_MID)</summary>
+
+- [1.AI Introduction and History.pdf](Artificial%20Intelligence/PRE_MID/1.AI%20Introduction%20and%20History.pdf)  
+- [2.AI-Ex Mtech-Search.pdf](Artificial%20Intelligence/PRE_MID/2.AI-Ex%20Mtech-Search.pdf)  
+- [3.Intelligent Agents.pdf](Artificial%20Intelligence/PRE_MID/3.Intelligent%20Agents.pdf)  
+- [4. NCSC 513- A star search, hill climbing, SA and GA.pdf](Artificial%20Intelligence/PRE_MID/4.%20NCSC%20513-%20A%20star%20search%2C%20hill%20climbing%2C%20SA%20and%20GA.pdf)  
+- [5. NCSC513-AI Ex Mtech(31_8_25).pdf](Artificial%20Intelligence/PRE_MID/5.%20NCSC513-AI%20Ex%20MTech%2831_8_25%29.pdf)  
+- [6.NCSC513-Simulated annealing and Local Beam Search (29_8_25).pdf](Artificial%20Intelligence/PRE_MID/6.NCSC513-Simulated%20annealing%20and%20Local%20Beam%20Search%20%2829_8_25%29.pdf)  
+- [7.NCSC513-AI CSP.pdf](Artificial%20Intelligence/PRE_MID/7.NCSC513-AI%20CSP.pdf)  
+- [8.NCSC513-AI Intelligent Agents, Uninformed and Informed Search.pdf](Artificial%20Intelligence/PRE_MID/8.NCSC513-AI%20Intelligent%20Agents%2C%20Uninformed%20and%20Informed%20Search.pdf)  
+- [9.NCSC513- Genetic Algorithm, Adversarial Search, Problem Reduction in AI.pdf](Artificial%20Intelligence/PRE_MID/9.NCSC513-%20Genetic%20Algorithm%2C%20Adversarial%20Search%2C%20Problem%20Reduction%20in%20AI.pdf)
+
+</details>
+
+---
+
 ## Image and Video Processing
 
-- [McAbdrew-An Introduction to Digital Image Processing with Matlab.pdf](IVP/McAbdrew-An%20Introduction%20to%20Digital%20Image%20Processing%20with%20Matlab.pdf)
+### MID_SEM
+<details>
+<summary>Module 1 → Module 4 (MID_SEM)</summary>
 
-### Module 1
+#### Module 1
+- [Chap_1n2.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%201/Chap_1n2.pdf)  
+- [cs484_imaging.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%201/cs484_imaging.pdf)  
+- [image_representation2.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%201/image_representation2.pdf)  
+- [image_representation.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%201/image_representation.pdf)
 
-- [1. Ch 1.pdf](IVP/Module%201/1.%20Ch%201.pdf)
-- [1. Ch 2 Part 1.pdf](IVP/Module%201/1.%20Ch%202%20Part%201.pdf)
-- [1. Ch 2 Part 2.pdf](IVP/Module%201/1.%20Ch%202%20Part%202.pdf)
-- [1.Chap_1n2_small.pdf](IVP/Module%201/1.Chap_1n2_small.pdf)
-- [2.cs484_imaging.pdf](IVP/Module%201/2.cs484_imaging.pdf)
-- [3.image_representation.pdf](IVP/Module%201/3.image_representation.pdf)
-- [4.image_representation2.pdf](IVP/Module%201/4.image_representation2.pdf)
+#### Module 2 — Spatial
+- [chapter3.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%202%20Spatial/chapter3.pdf)  
+- [image_preprocessing_spatial1.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%202%20Spatial/image_preprocessing_spatial1.pdf)  
+- [image_preprocessing_spatial2.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%202%20Spatial/image_preprocessing_spatial2.pdf)  
+- [image_preprocessing_spatial3.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%202%20Spatial/image_preprocessing_spatial3.pdf)  
+- [image_preprocessing_spatial4.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%202%20Spatial/image_preprocessing_spatial4.pdf)  
+- [Spatial_Filtering1.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%202%20Spatial/Spatial_Filtering1.pdf)  
+- [Spatial_Filtering2.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%202%20Spatial/Spatial_Filtering2.pdf)  
+- [Spectral_Filtering1.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%202%20Spatial/Spectral_Filtering1.pdf)
 
-### Module 2
+#### Module 3 — Image Restoration (Wiener)
+- [Chapter5.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%203%20Image%20Restoration%20Weiner%20Filter/Chapter5.pdf)  
+- [ECE468_13Wiener.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%203%20Image%20Restoration%20Weiner%20Filter/ECE468_13Wiener.pdf)  
+- [Image RestorationMcmaster.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%203%20Image%20Restoration%20Weiner%20Filter/Image%20RestorationMcmaster.pdf)  
+- [image_restoration.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%203%20Image%20Restoration%20Weiner%20Filter/image_restoration.pdf)
 
-- [chapter3.pdf](IVP/Module%202/chapter3.pdf)
-- [image_preprocessing_spatial1.pdf](IVP/Module%202/image_preprocessing_spatial1.pdf)
-- [image_preprocessing_spatial2.pdf](IVP/Module%202/image_preprocessing_spatial2.pdf)
-- [image_preprocessing_spatial3.pdf](IVP/Module%202/image_preprocessing_spatial3.pdf)
-- [image_preprocessing_spatial4.pdf](IVP/Module%202/image_preprocessing_spatial4.pdf)
-- [rcg-ch2 (1).pdf](IVP/Module%202/rcg-ch2%20%281%29.pdf)
-- [rcg-ch2.pdf](IVP/Module%202/rcg-ch2.pdf)
-- [rcg-ch3.pdf](IVP/Module%202/rcg-ch3.pdf)
-- [Spatial_Filtering1.pdf](IVP/Module%202/Spatial_Filtering1.pdf)
-- [Spatial_Filtering2.pdf](IVP/Module%202/Spatial_Filtering2.pdf)
-- [Spectral_Filtering1.pdf](IVP/Module%202/Spectral_Filtering1.pdf)
+#### Module 4 — Morphology
+- [fsp.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%204%20%20Morphology/fsp.pdf)  
+- [good-Morphological.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%204%20%20Morphology/good-Morphological.pdf)  
+- [mcmastermorphology.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%204%20%20Morphology/mcmastermorphology.pdf)  
+- [reconstruction.pdf](Image%20and%20Video%20Processing/MID_SEM/Module%204%20%20Morphology/reconstruction.pdf)
 
-### Module 3
+</details>
 
-- [Chapter5.pdf](IVP/Module%203/Chapter5.pdf)
-- [ECE468_13Wiener.pdf](IVP/Module%203/ECE468_13Wiener.pdf)
-- [Image RestorationMcmaster.pdf](IVP/Module%203/Image%20RestorationMcmaster.pdf)
-- [Image RestorationTania.pdf](IVP/Module%203/Image%20RestorationTania.pdf)
-- [image_restoration.pdf](IVP/Module%203/image_restoration.pdf)
-- [lect7_1uprest3.pdf](IVP/Module%203/lect7_1uprest3.pdf)
-- [Noiserest.pdf](IVP/Module%203/Noiserest.pdf)
-- [rest1.pdf](IVP/Module%203/rest1.pdf)
-- [rest2.pdf](IVP/Module%203/rest2.pdf)
+### POST_MID_SEM
+<details>
+<summary>Modules 5 → 9 (POST_MID_SEM)</summary>
 
-### Module 4
+#### Module 5 — Segmentation
+- [1-s2.0-S1877050915028574-main.pdf](Image%20and%20Video%20Processing/POST_MID_SEM/Module%205%20Segmentation/1-s2.0-S1877050915028574-main.pdf)  
+- [11_CannyEdgeDetection.pdf](Image%20and%20Video%20Processing/POST_MID_SEM/Module%205%20Segmentation/11_CannyEdgeDetection.pdf)  
+- [segmentation.pdf](Image%20and%20Video%20Processing/POST_MID_SEM/Module%205%20Segmentation/segmentation.pdf)
 
-- [fsp.pdf](IVP/Module%204/fsp.pdf)
-- [good-Morphological.pdf](IVP/Module%204/good-Morphological.pdf)
-- [L24-25. Gray level morphology.Shape description.pdf](IVP/Module%204/L24-25.%20Gray%20level%20morphology.Shape%20description.pdf)
-- [mcmastermorphology.pdf](IVP/Module%204/mcmastermorphology.pdf)
-- [MIP2018_19_13_morphology_double.pdf](IVP/Module%204/MIP2018_19_13_morphology_double.pdf)
-- [Morphologicaliitd.pdf](IVP/Module%204/Morphologicaliitd.pdf)
-- [Morphologyiitm.pdf](IVP/Module%204/Morphologyiitm.pdf)
-- [reconstruction.pdf](IVP/Module%204/reconstruction.pdf)
+#### Module 6 — Compression
+- [image_compression.pdf](Image%20and%20Video%20Processing/POST_MID_SEM/Module%206%20Compression/image_compression.pdf)  
+- [W13-JPEG-Compression.pdf](Image%20and%20Video%20Processing/POST_MID_SEM/Module%206%20Compression/W13-JPEG-Compression.pdf)
+
+#### Module 8 — Multi-resolution
+- [An Introduction to Wavelet Analysis with Applications to Image and JPEG 2000.pdf](Image%20and%20Video%20Processing/POST_MID_SEM/Module%208%20Multi-resolution/An%20Introduction%20to%20Wavelet%20Analysis%20with%20Applications%20to%20Image%20and%20JPEG%202000.pdf)  
+
+#### Module 9 — Video Processing
+- [Digital_video_processingTEKALP.pdf](Image%20and%20Video%20Processing/POST_MID_SEM/Module%209%20Video%20Processing/Digital_video_processingTEKALP.pdf)  
+- [video_processing1.pdf](Image%20and%20Video%20Processing/POST_MID_SEM/Module%209%20Video%20Processing/video_processing1.pdf)
+
+</details>
+
+---
 
 ## Research and Technical Communication
+> Writing guides, exercises, and templates for academic & technical writing.
 
-- [1.English Articles.pdf](RTC/1.English%20Articles.pdf)
-- [2.Impersonal Passive.pdf](RTC/2.Impersonal%20Passive.pdf)
-- [3.Prepositions.pdf](RTC/3.Prepositions.pdf)
-- [4.Subject and Verb Agreement.pdf](RTC/4.Subject%20and%20Verb%20Agreement.pdf)
-- [5.USES OF TENSES.pdf](RTC/5.USES%20OF%20TENSES.pdf)
-- [6.Prepositions Exercises.pdf](RTC/6.Prepositions%20Exercises.pdf)
-- [7.Articles Exercises.pdf](RTC/7.Articles%20Exercises.pdf)
-- [8.Impersonal Passive Voice.pdf](RTC/8.Impersonal%20Passive%20Voice.pdf)
-- [9.Subject Verb Agreement Exercises.pdf](RTC/9.Subject%20Verb%20Agreement%20Exercises.pdf)
-- [10.Verb Tense Consistency.pdf](RTC/10.Verb%20Tense%20Consistency.pdf)
-- [11.common-errors.pdf](RTC/11.common-errors.pdf)
-- [12 Ways to Cut Clutter From Writing - PDF Free Download.pdf](RTC/12%20Ways%20to%20Cut%20Clutter%20From%20Writing%20-%20PDF%20Free%20Download.pdf)
-- [12.Common Errors in Essay Writing.pdf](RTC/12.Common%20Errors%20in%20Essay%20Writing.pdf)
-- [13.WRITING_TIPS.pdf](RTC/13.WRITING_TIPS.pdf)
-- [14.cutting_clutter_final.pdf](RTC/14.cutting_clutter_final.pdf)
-- [15.Clean-the-Clutter-of-your-Words.pdf](RTC/15.Clean-the-Clutter-of-your-Words.pdf)
-- [16.Conciseness.pdf](RTC/16.Conciseness.pdf)
-- [17.Easy Ways to Cut Clutter from Writing.pdf](RTC/17.Easy%20Ways%20to%20Cut%20Clutter%20from%20Writing.pdf)
-- [18.Subject Verb Agreement Exercises Answers.pdf](RTC/18.Subject%20Verb%20Agreement%20Exercises%20Answers.pdf)
-- [19.Academic Writing.pdf](RTC/19.Academic%20Writing.pdf)
-- [20.Articles Exercises Answers.pdf](RTC/20.Articles%20Exercises%20Answers.pdf)
-- [21.Common Errors in Writing & Cutting Clutter.pdf](RTC/21.Common%20Errors%20in%20Writing%20%26%20Cutting%20Clutter.pdf)
-- [22.Academic Writing.pdf](RTC/22.Academic%20Writing.pdf)
-- [23.Common Errors in Writing & Cutting Clutter.pdf](RTC/23.Common%20Errors%20in%20Writing%20%26%20Cutting%20Clutter.pdf)
-- [24.Academic Phrase Bank.pdf](RTC/24.Academic%20Phrase%20Bank.pdf)
-- [25.Academic writing.pdf](RTC/25.Academic%20writing.pdf)
-- [26.Patterns of Organization.pdf](RTC/26.Patterns%20of%20Organization.pdf)
-- [27.Rhetorical functions in academic writing_compressed.pdf](RTC/27.Rhetorical%20functions%20in%20academic%20writing_compressed.pdf)
-- [28.ACADEMIC WRITING STYLE-Exercises.pdf](RTC/28.ACADEMIC%20WRITING%20STYLE-Exercises.pdf)
-- [29.Academic Writing Exercises.pdf](RTC/29.Academic%20Writing%20Exercises.pdf)
-- [30.Academic Writing from Paragraph to Essay.pdf](RTC/30.Academic%20Writing%20from%20Paragraph%20to%20Essay.pdf)
-- [31.paragraph-development.pdf](RTC/31.paragraph-development.pdf)
-- [32.paragraphing in academic writing.pdf](RTC/32.paragraphing%20in%20academic%20writing.pdf)
-- [33.paragraph-unity-and-coherence.pdf](RTC/33.paragraph-unity-and-coherence.pdf)
-- [34.Understanding the Structure of a Paragraph.pdf](RTC/34.Understanding%20the%20Structure%20of%20a%20Paragraph.pdf)
-- [35.writing-effective-paragraphs.pdf](RTC/35.writing-effective-paragraphs.pdf)
+- [End-sem Question Paper MS 2022-23 Answer Key.pdf](Research%20and%20Technical%20Communication/End-sem%20Question%20Paper%20MS%202022-23%20Answer%20Key.pdf)
+
+### 1. Common Errors
+- [Common Errors in Writing & Cutting Clutter (1).pdf](Research%20and%20Technical%20Communication/1.%20Common%20Errors/Common%20Errors%20in%20Writing%20%26%20Cutting%20Clutter%20%281%29.pdf)  
+- [Common Errors in Writing & Cutting Clutter (1).pptx](Research%20and%20Technical%20Communication/1.%20Common%20Errors/Common%20Errors%20in%20Writing%20%26%20Cutting%20Clutter%20%281%29.pptx)
+
+### 2. Cutting Clutter
+- [Cutting Clutter (1).pdf](Research%20and%20Technical%20Communication/2.%20Cutting%20Clutter/Cutting%20Clutter%20%281%29.pdf)  
+
+### 3. Academic Writing
+- [Academic Writing Process.pdf](Research%20and%20Technical%20Communication/3.%20Academic%20Writing/Academic%20Writing%20Process.pdf)
+
+### 4. Paragraph and Essay Writing
+- [paragraph-development (1).pdf](Research%20and%20Technical%20Communication/4.%20Paragraph%20and%20Essay%20Writing/paragraph-development%20%281%29.pdf)  
+
+### 5. Writing Literature Review
+- [Conducting a  Literature Review.pdf](Research%20and%20Technical%20Communication/5.%20Writing%20Literature%20Review/Conducting%20a%20%20Literature%20Review.pdf)
+
+### 6. Punctuations
+- [Punctuation.pdf](Research%20and%20Technical%20Communication/6.%20Punctuations/Punctuation.pdf)
+
+### 7. Writing Research Paper
+- [academicessaystructures.pdf](Research%20and%20Technical%20Communication/7.%20Writing%20Research%20Paper/academicessaystructures.pdf)
+
+### 8. Writing Thesis
+- [Writing Your Dissertation 3rd Ed.pdf](Research%20and%20Technical%20Communication/8.%20Writing%20Thesis/Writing%20Your%20Dissertation%203rd%20Ed.pdf)
+
+### 9. Quoting, Paraphrasing, and Summarizing
+- [Quoting, Paraphrasing & Summarizing.pdf](Research%20and%20Technical%20Communication/9.%20Quoting%2C%20Paraphrasing%2C%20and%20Summarizing%0A/Quoting%2C%20Paraphrasing%20%26%20Summarizing.pdf)
+
+### 10. Plagiarism
+- [Plagiarism.pdf](Research%20and%20Technical%20Communication/10.%20Plagiarism/Plagiarism.pdf)
+
+---
+
+*Tip:* to reduce page length, use the `<details>` collapse blocks (as used above). If you want I can:
+- generate this decorated `index.md` automatically from your folder tree (script), or  
+- add file sizes / last-modified timestamps next to each link, or  
+- convert long file lists into paginated JSON for a search UI.  
+
+Which one next?
 
