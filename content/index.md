@@ -210,7 +210,7 @@ Welcome — organized course materials and resources.
 <details>
 <summary><strong>1. Common Errors</strong></summary>
 
-- [Common Errors in Writing & Cutting Clutter (1).pdf](Research%20and%20Technical%20Communication/1.%20Common%20Errors/Common%20Errors%20in%20Writing%20%26%20Cutting%20Clutter%20%281%29.pdf)
+- [Common Errors in Writing & Cutting Clutter (1).pdf](Research%20and%20Technical%20Communication/1.%20Common%20Errors/Common%20Errors%20in%20Writing%20%26%20Cutting%20Clutter%20(1).pdf)
   
 </details>
 
