@@ -34,9 +34,9 @@ Welcome — organized course materials and resources.
 <details>
 <summary><strong>📘 POST_MID_SEM</strong></summary>
 
-- [1. NCSC513-AI Inductive Learning, ML Algorithms, Neural Networks (1) (2).pdf](Artificial%20Intelligence/POST_MID_SEM/1.%20NCSC513-AI%20Inductive%20Learning%2C%20ML%20Algorithms%2C%20Neural%20Networks%20%281%29%20%282%29.pdf)  
-- [2. NCSC513-Knowledge Representation, Planning, NLP(16_9_25) (2).pdf](Artificial%20Intelligence/POST_MID_SEM/2.%20NCSC513-Knowledge%20Representation%2C%20Planning%2C%20NLP%2816_9_25%29%20%282%29.pdf)  
-- [3. NCSC513-Probabilistic Reasoning, Knowledge Representation, Planning, NLP(10_9_25) (2).pdf](Artificial%20Intelligence/POST_MID_SEM/3.%20NCSC513-Probabilistic%20Reasoning%2C%20Knowledge%20Representation%2C%20Planning%2C%20NLP%2810_9_25%29%20%282%29.pdf)
+- [1. NCSC513-AI Inductive Learning, ML Algorithms, Neural Networks (1) (2).pdf](Artificial%20Intelligence/POST_MID_SEM/1.pdf)  
+- [2. NCSC513-Knowledge Representation, Planning, NLP(16_9_25) (2).pdf](Artificial%20Intelligence/POST_MID_SEM/2.pdf)  
+- [3. NCSC513-Probabilistic Reasoning, Knowledge Representation, Planning, NLP(10_9_25) (2).pdf](Artificial%20Intelligence/POST_MID_SEM/3.pdf)
 
 </details>
 
