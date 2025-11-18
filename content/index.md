@@ -22,11 +22,11 @@ Welcome — organized course materials and resources.
 - [1.AI Introduction and History.pdf](Artificial%20Intelligence/MID_SEM/1.AI%20Introduction%20and%20History.pdf)  
 - [2.AI-Ex Mtech-Search.pdf](Artificial%20Intelligence/MID_SEM/2.AI-Ex%20Mtech-Search.pdf)  
 - [3.Intelligent Agents.pdf](Artificial%20Intelligence/MID_SEM/3.Intelligent%20Agents.pdf)  
-- [4. NCSC 513- A star search, hill climbing, SA and GA.pdf](Artificial%20Intelligence/MID_SEM/4.%20NCSC%20513-%20A%20star%20search%2C%20hill%20climbing%2C%20SA%20and%20GA.pdf)  
+- [4. NCSC 513- A star search, hill climbing, SA and GA.pdf](Artificial%20Intelligence/MID_SEM/4.pdf)  
 - [5. NCSC513-AI Ex Mtech(31_8_25).pdf](Artificial%20Intelligence/MID_SEM/5.%20NCSC513-AI%20Ex%20Mtech%2831_8_25%29.pdf)  
 - [6.NCSC513-Simulated annealing and Local Beam Search (29_8_25).pdf](Artificial%20Intelligence/MID_SEM/6.NCSC513-Simulated%20annealing%20and%20Local%20Beam%20Search%20%2829_8_25%29.pdf)  
 - [7.NCSC513-AI CSP.pdf](Artificial%20Intelligence/MID_SEM/7.NCSC513-AI%20CSP.pdf)  
-- [8.NCSC513-AI Intelligent Agents, Uninformed and Informed Search.pdf](Artificial%20Intelligence/MID_SEM/8.NCSC513-AI%20Intelligent%20Agents%2C%20Uninformed%20and%20Informed%20Search.pdf)  
+- [8.NCSC513-AI Intelligent Agents, Uninformed and Informed Search.pdf](Artificial%20Intelligence/MID_SEM/8.pdf)  
 - [9.NCSC513- Genetic Algorithm, Adversarial Search, Problem Reduction in AI.pdf](Artificial%20Intelligence/MID_SEM/9.NCSC513-%20Genetic%20Algorithm%2C%20Adversarial%20Search%2C%20Problem%20Reduction%20in%20AI.pdf)
 
 </details>
